@@ -11,6 +11,13 @@ script:
 language: generic
 
 deploy:
+    provider: s3
+    edge:
+        branch: s3-backward-compat
+        access_key_id: "$AWS_ACCESS_KEY"
+    secret_access_key:
+        secure: "$AWS_SECRET_KEY"
+
     provider: elasticbeanstalk
     region: "eu-west-1"
     app: "docker-react"
