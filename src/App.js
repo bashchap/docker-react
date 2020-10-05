@@ -10,7 +10,7 @@ function App() {
         <p>
             ⠁I am now  ⣿⠈<br></br>
              ⡀running on⢀<br></br>
-          ⠰ElasticBeatstalk⠆
+          ⠰ ElasticBeatstalk ⠆
         </p>
         <a
           className="App-link"
