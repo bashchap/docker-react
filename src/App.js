@@ -8,9 +8,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          ⠁I was  ⣿⠈<br></br>
-          ⡀changed ⢀<br></br>
-          ⠰ again ⠆
+            ⠁I am now  ⣿⠈<br></br>
+             ⡀running on⢀<br></br>
+          ⠰ ElasticBeatstalk ⠆
         </p>
         <a
           className="App-link"
