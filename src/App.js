@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
             ⠁I am now  ⣿⠈<br></br>
-             ⡀running on⢀<br></br>
+             ⡀running hola! on⢀<br></br>
           ⠰ ElasticBeatstalk ⠆
         </p>
         <a
